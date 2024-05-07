@@ -40,6 +40,6 @@ npm install
 npm run dev
 ```
 
-2.Open your browser and visit http://localhost:5173to access the Sorting Visualizer.
+2.Open your browser and visit http://localhost:5173 to access the Sorting Visualizer.
 3.Use the controls to generate a new array, select a sorting algorithm, and visualize the sorting process.
 
