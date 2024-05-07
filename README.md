@@ -2,11 +2,17 @@
 
 This Sorting Visualizer is a web application built using React.js that allows users to generate an array of random numbers and visualize various sorting algorithms such as Merge Sort, Quick Sort, and Bubble Sort.
 
+## Demo
+![Vite + React](https://github.com/pragyakashyap/Sorting-Visualizer/assets/47416981/2ea09a08-cca5-4fe4-93b5-b9d9b109ba4c)
+![Vite + React (1)](https://github.com/pragyakashyap/Sorting-Visualizer/assets/47416981/4eaeface-c318-4e26-833e-15e86aefa6af)
+
+
+
 ## Features
 
 - Generate a random array of numbers within a specified range.
 - Visualize sorting algorithms in real-time.
-- Compare the performance of different sorting algorithms.
+- Vary the number of bars, minimum and maximum range, and animation speed for customization.
 
 ## Technologies Used
 
