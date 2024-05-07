@@ -20,7 +20,7 @@ This Sorting Visualizer is a web application built using React.js that allows us
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/pragyakashyap/sorting-visualizer.git
 ```
 
 Navigate to the project directory:
