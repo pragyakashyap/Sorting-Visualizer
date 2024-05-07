@@ -44,3 +44,21 @@ npm run dev
 
 3. Use the Generate new array button to generate a new array, select a sorting algorithm, and visualize the sorting process.
 
+## Algorithms
+
+### Merge Sort
+
+- Description: Merge Sort is a divide-and-conquer algorithm that recursively divides the array into smaller subarrays, sorts them, and then merges them back together.
+- Complexity: O(n log n)
+
+### Quick Sort
+
+- Description: Quick Sort is a divide-and-conquer algorithm that selects a pivot element, partitions the array around the pivot, and recursively sorts the subarrays.
+- Complexity: O(n log n) average case, O(n^2) worst case
+
+### Bubble Sort
+
+- Description: Bubble Sort is a simple comparison-based sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order.
+- Complexity: O(n^2)
+
+
