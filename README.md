@@ -21,19 +21,25 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/sorting-visualizer.git
+```
 
 Navigate to the project directory:
+```bash
 cd sorting-visualizer
+```
 
 Install dependencies:
+```bash
 npm install
+```
 
 ## Usage
 
 1. Start the development server
 ```bash
 npm run dev
+```
 
-2.Open your browser and visit http://localhost:3000 to access the Sorting Visualizer.
+2.Open your browser and visit http://localhost:5173to access the Sorting Visualizer.
 3.Use the controls to generate a new array, select a sorting algorithm, and visualize the sorting process.
 
